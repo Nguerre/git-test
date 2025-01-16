@@ -6,4 +6,5 @@ elif age==8 or age==9:
 elif age==10 or age==11:
     print("MINIME")
 elif age>12:
-    print("CADET")
+    print("CADET") 
+print(" IOE SERIGNE DANGA NEEX REEK")
